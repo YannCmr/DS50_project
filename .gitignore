@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+# Avoid storing the data
+archive/data/
+archive/data_samples/
+archive/data.csv
+
+
 # Distribution / packaging
 .Python
 build/
@@ -130,6 +136,7 @@ celerybeat.pid
 # Environments
 .env
 .venv
+venvProjetDS50/
 env/
 venv/
 ENV/
