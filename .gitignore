@@ -7,9 +7,9 @@ __pycache__/
 *.so
 
 # Avoid storing the data
-archive/data/
-archive/data_samples/
-archive/data.csv
+00_archive/data/
+00_archive/data_samples/
+00_archive/data.csv
 
 
 # Distribution / packaging
