@@ -4,12 +4,24 @@ A project with Ilness and CNN
 
 # Project Directory Structure
 
-The dataset is organized for a classification task. It follows a common train    test split, with further categorization by disease.
+The dataset is organized for a classification task. It follows a common train test split, with further categorization by disease.
+
+The project directory structure is as follows:
+
+DS50_project
+├── 00_archives     <-- Folder for the dataset, explain underneath
+├── 10_notebooks     <-- Folder for Jupyter notebooks
+|     ├── slip_data.ipynb     <-- File for splitting the dataset smaller datasets to work with
+├── 99_Documents   <-- Folder for documents related to the project
+├── requirements.txt     <-- The requirements file for the project
+└── README.md     <-- This file explaning the project
 
 
+
+## Dataset Directory Structure
 archive    
 ├── data    
-│   ├── test    
+│    ├── test    
 │    │   ├── Coccidiosis    
 │    │   ├── Healthy    
 │    │   ├── New Castle Disease    
