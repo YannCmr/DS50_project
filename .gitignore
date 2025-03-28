@@ -9,6 +9,7 @@ __pycache__/
 # Avoid storing the data
 archive/data/
 archive/data_samples/
+archive/data.csv
 
 
 # Distribution / packaging
