@@ -11,6 +11,7 @@ __pycache__/
 00_archive/data_samples/
 00_archive/data.csv
 00_archive/data_samples.zip
+data_samples/
 
 # Distribution / packaging
 .Python
