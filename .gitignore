@@ -9,6 +9,7 @@ __pycache__/
 # Avoid storing the data
 00_archive/data/
 00_archive/data_samples/
+00_archive/data_samples_old/
 00_archive/data.csv
 00_archive/data_samples.zip
 data_samples/
