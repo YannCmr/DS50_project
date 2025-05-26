@@ -1,0 +1,54 @@
+{
+    "val/Salmonella": {
+        "iteration_1": 5,
+        "iteration_2": 5,
+        "iteration_3": 5
+    },
+    "val/New Castle Disease": {
+        "iteration_1": 6,
+        "iteration_2": 6,
+        "iteration_3": 6
+    },
+    "val/Healthy": {
+        "iteration_1": 5,
+        "iteration_2": 5,
+        "iteration_3": 5
+    },
+    "val/Coccidiosis": {
+        "iteration_1": 8,
+        "iteration_2": 8,
+        "iteration_3": 8
+    },
+    "test/Salmonella": {
+        "iteration_1": 7,
+        "iteration_2": 9,
+        "iteration_3": 7
+    },
+    "test/New Castle Disease": {
+        "iteration_1": 7,
+        "iteration_2": 7,
+        "iteration_3": 6
+    },
+    "test/Healthy": {
+        "iteration_1": 6,
+        "iteration_2": 10
+    },
+    "test/Coccidiosis": {
+        "iteration_1": 10,
+        "iteration_2": 5
+    },
+    "train/Salmonella": {
+        "iteration_1": 9,
+        "iteration_2": 9
+    },
+    "train/New Castle Disease": {
+        "iteration_1": 7,
+        "iteration_2": 7
+    },
+    "train/Coccidiosis": {
+        "iteration_1": 5
+    },
+    "train/Healthy": {
+        "iteration_1": 10
+    }
+}
