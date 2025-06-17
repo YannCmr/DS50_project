@@ -13,6 +13,8 @@ __pycache__/
 00_archive/data.csv
 00_archive/data_samples.zip
 data_samples/
+data_samples_processed
+10_notebook/wandb/
 
 # Distribution / packaging
 .Python
